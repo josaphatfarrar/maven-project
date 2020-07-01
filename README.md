@@ -7,3 +7,4 @@ https://www.level-up.one/devops-pdf-book
 
 
 Test Read Me file
+Test Application Insights
